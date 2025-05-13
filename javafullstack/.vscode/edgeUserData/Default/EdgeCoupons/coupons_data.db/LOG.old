@@ -1,0 +1,5 @@
+2025/04/20-22:19:34.070 3e98 Creating DB C:\coding\javafullstack\.vscode\edgeUserData\Default\EdgeCoupons/coupons_data.db since it was missing.
+2025/04/20-22:19:34.105 3e98 Reusing MANIFEST C:\coding\javafullstack\.vscode\edgeUserData\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2025/04/20-22:19:34.438 4d7c Level-0 table #5: started
+2025/04/20-22:19:34.449 4d7c Level-0 table #5: 670828 bytes OK
+2025/04/20-22:19:34.452 4d7c Delete type=0 #3

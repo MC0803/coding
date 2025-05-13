@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>
+        Icecream
+    </h1>
+    <p>
+        Flavors: Vanilla, Chocolate, Strawberry, Cookies and Cream, Mint Chocolate Chip, Peanut Butter Cup
+    </p>
+    <h2>
+        FOOD
+    </h2>
+    <p>
+        Pizza, Burger, Fries, Salad, Sushi, Pasta, Tacos, Sandwiches, Ice Cream, Cake
+    </p>
+    <strong>
+        Manasi
+    </strong>
+    <em>
+        Choubey
+    </em>
+<!--unordered list-->
+    <ul>
+        <li>Pen</li>        
+        <li>Pencil</li>        
+        <li>Eraser</li>
+    </ul>
+<!--unorered list with square bullets -->                                
+    <ul type="square">
+        <li>Notebook</li>
+        <li>Marker</li>        
+    </ul>
+<!--link to other site-->
+   <a href=https://www.youtube.com/?themeRefresh=1>GO TO YOUTUBE</a>
+        <br>
+<!--image adding-->
+  <img src="https://www.example.com/image.jpg" alt="Example Image" width="300" height="200">
+        <br>
+
+<!--form -->
+        <form action="/submit" method="post">
+            <!-- Text input for username --> 
+<!--text input for username -->                      
+            <label for="username">Username:</label>            
+            <input type="text" id="username" name="username" required>            
+            <br><br>
+                                
+<!-- Password input -->            
+            <label for="password">Password:</label>           
+            <input type="password" id="password" name="password" required>
+            <br><br>
+            <!-- Radio buttons for gender -->
+<!--select buttons-->
+<!-- Radio buttons for gender -->
+    <label>Gender:</label>
+
+    <input type="radio" id="male" name="gender" value="male">
+     <label for="male">Male</label>
+     <input type="radio" id="female" name="gender" value="female">
+     <label for="female">Female</label>
+
+   <br><br>
+<!--submit button-->
+  <!-- Submit button -->
+    <input type="submit" value="Submit">
+   <br><br>
+<!--checkbox  -->
+   <input type="checkbox" id="subscribe" name="subscribe" value="yes">
+
+     <label for="subscribe">Subscribe to newsletter</label>
+
+  </form>
+  <br><br>
+  <form action="/submit">
+<!--textarea multiple lines of text-->
+  <textarea name="comment" rows="4" cols="50"> Enter your comment here...
+  </textarea>
+   <br><br>
+<!--select one dropdown box-->
+  <select name="fruits">
+    <option value="apple">Apple</option>
+    <option value="banana">Banana</option>
+    <option value="cherry">Cherry</option>
+   </select>
+   <br><br>
+   </form>
+<!--table-->
+  <table>
+    <tr>
+    <th>Name</th>
+    <th>Age</th>
+    </tr>
+    <tr>
+    <td>Harry</td>
+    <td>100</td>
+    </tr>
+    
+  </table>
+  <br><br>
+<!--table with colspan-->
+  <table border="1">
+  <tr>
+     <td colspan="2">Merged Columns</td>
+    </tr>
+    <tr>
+    <td>Column 1</td>
+    <td>Column 2</td>
+   </tr>
+
+  </table>
+  <br><br>
+<!--table with rowspan-->
+  <table border="1">
+    <tr>
+      <td rowspan="2">Merged Rows</td>
+      <td>Column 1</td>
+    </tr>
+    <tr>
+      <td>Column 2</td>
+    </tr>
+  </table>
+  <br><br>  
+
+  <h1>Sample HTML Form with Media Tags</h1>
+
+  <!-- Audio Embed -->
+  <h2>Listen to an Audio Sample</h2>
+  <audio controls>
+  <source src="sample-audio.mp3" type="audio/mp3"> Your browser does not support the audio element.
+  </audio>
+  <br><br>
+  
+  <!-- Video Embed -->
+  <h2>Watch a Video Sample</h2>
+  <video width="320" height="240" controls>
+  <source src="sample-video.mp4" type="video/mp4"> Your browser does not support the video tag.
+  </video>
+  <br><br>
+
+  <svg height="100" width="100">
+    <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" />
+  </svg>
+         
+</body>
+</html>

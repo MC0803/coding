@@ -1,0 +1,1543 @@
+{
+	"product-groups": [
+				{
+			"name": "integration2-en",
+			"search-enabled": true,
+			"button-text": "Go to Integration 3",
+			"banner-text": "If you've upgraded to our latest version, see Oracle Integration 3.",
+			"previous-releases": [
+				"/en/cloud/paas/integration-cloud/"
+			],
+			"latest-docs": {
+				"*": "/en/cloud/paas/application-integration/",
+				"oracle-integration-oci": "/en/cloud/paas/application-integration/oracle-integration-oci/",
+				"known-issues": "/en/cloud/paas/application-integration/known-issues/",
+				"whats-new": "/en/cloud/paas/application-integration/whats-new/",
+				"int-get-started": "/en/cloud/paas/application-integration/int-get-started/",
+				"integrations-user": "/en/cloud/paas/application-integration/integrations-user/",
+				"mapper-user": "/en/cloud/paas/application-integration/mapper-user/",
+				"user-int-insight-oci": "/en/cloud/paas/application-integration/user-int-insight-oci/",
+				"file-server": "/en/cloud/paas/application-integration/file-server/",
+				"adobe-esign-adapter": "/en/cloud/paas/application-integration/adobe-esign-adapter/",
+				"apache-kafka-adapter": "/en/cloud/paas/application-integration/apache-kafka-adapter/",
+				"box-adapter": "/en/cloud/paas/application-integration/box-adapter/",
+				"docusign-adapter": "/en/cloud/paas/application-integration/docusign-adapter/",
+				"ebay-adapter": "/en/cloud/paas/application-integration/ebay-adapter/",
+				"eventbrite-adapter": "/en/cloud/paas/application-integration/eventbrite-adapter/",
+				"facebook-adapter": "/en/cloud/paas/application-integration/facebook-adapter/",
+				"file-adapter": "/en/cloud/paas/application-integration/file-adapter/",
+				"ftp-adapter": "/en/cloud/paas/application-integration/ftp-adapter/",
+				"gmail-adapter": "/en/cloud/paas/application-integration/gmail-adapter/",
+				"google-calendar-adapter": "/en/cloud/paas/application-integration/google-calendar-adapter/",
+				"google-task-adapter": "/en/cloud/paas/application-integration/google-task-adapter/",
+				"db2-adapter": "/en/cloud/paas/application-integration/db2-adapter/",
+				"mqseries-jms-adapter": "/en/cloud/paas/application-integration/mqseries-jms-adapter/",
+				"jira-adapter": "/en/cloud/paas/application-integration/jira-adapter/",
+				"linkedin-adapter": "/en/cloud/paas/application-integration/linkedin-adapter/",
+				"mailchimp-adapter": "/en/cloud/paas/application-integration/mailchimp-adapter/",
+				"marketo-adapter": "/en/cloud/paas/application-integration/marketo-adapter/",
+				"microsoft-calendar-adapter": "/en/cloud/paas/application-integration/microsoft-calendar-adapter/",
+				"microsoft-contact-adapter": "/en/cloud/paas/application-integration/microsoft-contact-adapter/",
+				"microsoft-email-adapter": "/en/cloud/paas/application-integration/microsoft-email-adapter/",
+				"microsoft-sql-adapter": "/en/cloud/paas/application-integration/microsoft-sql-adapter/",
+				"mysql-adapter": "/en/cloud/paas/application-integration/mysql-adapter/",
+				"aq-adapter": "/en/cloud/paas/application-integration/aq-adapter/",
+				"adw-adapter": "/en/cloud/paas/application-integration/adw-adapter/",
+				"atp-adapter": "/en/cloud/paas/application-integration/atp-adapter/",
+				"stream-service-adapter": "/en/cloud/paas/application-integration/stream-service-adapter/",
+				"commerce-adapter": "/en/cloud/paas/application-integration/commerce-adapter/",
+				"cpq-adapter": "/en/cloud/paas/application-integration/cpq-adapter/",
+				"database-adapter": "/en/cloud/paas/application-integration/database-adapter/",
+				"dbaas-adapter": "/en/cloud/paas/application-integration/dbaas-adapter/",
+				"e-business-adapter": "/en/cloud/paas/application-integration/e-business-adapter/",
+				"sales-adapter": "/en/cloud/paas/application-integration/sales-adapter/",
+				"erp-adapter": "/en/cloud/paas/application-integration/erp-adapter/",
+				"field-adapter": "/en/cloud/paas/application-integration/field-adapter/",
+				"hcm-adapter": "/en/cloud/paas/application-integration/hcm-adapter/",
+				"hospitality-adapter": "/en/cloud/paas/application-integration/hospitality-adapter/",
+				"jd-edwards-adapter": "/en/cloud/paas/application-integration/jd-edwards-adapter/",
+				"logistics-adapter": "/en/cloud/paas/application-integration/logistics-adapter/",
+				"netsuite-adapter": "/en/cloud/paas/application-integration/netsuite-adapter/",
+				"rightnow-adapter": "/en/cloud/paas/application-integration/rightnow-adapter/",
+				"siebel-adapter": "/en/cloud/paas/application-integration/siebel-adapter/",
+				"soa-suite-adapter": "/en/cloud/paas/application-integration/soa-suite-adapter/",
+				"talent-acquisition-cloud-adapter-user": "/en/cloud/paas/application-integration/talent-acquisition-cloud-adapter-user/",
+				"utilities-adapters": "/en/cloud/paas/application-integration/utilities-adapters/",
+				"jms-adapter": "/en/cloud/paas/application-integration/jms-adapter/",
+				"paypal-adapter": "/en/cloud/paas/application-integration/paypal-adapter/",
+				"rest-adapter": "/en/cloud/paas/application-integration/rest-adapter/",
+				"sforce-adapter": "/en/cloud/paas/application-integration/sforce-adapter/",
+				"sforce-commerce-adapter": "/en/cloud/paas/application-integration/sforce-commerce-adapter/",
+				"sap-adapter": "/en/cloud/paas/application-integration/sap-adapter/",
+				"ariba-adapter": "/en/cloud/paas/application-integration/ariba-adapter/",
+				"sap-hana-adapter": "/en/cloud/paas/application-integration/sap-hana-adapter/",
+				"sap-commerce-adapter": "/en/cloud/paas/application-integration/sap-commerce-adapter/",
+				"concur-adapter": "/en/cloud/paas/application-integration/concur-adapter/",
+				"successfactors-adapter": "/en/cloud/paas/application-integration/successfactors-adapter/",
+				"servicenow-adapter": "/en/cloud/paas/application-integration/servicenow-adapter/",
+				"shopify-adapter": "/en/cloud/paas/application-integration/shopify-adapter/",
+				"slack-adapter": "/en/cloud/paas/application-integration/slack-adapter/",
+				"soap-adapter": "/en/cloud/paas/application-integration/soap-adapter/",
+				"sugarcrm-adapter": "/en/cloud/paas/application-integration/sugarcrm-adapter/",
+				"surveymonkey-adapter": "/en/cloud/paas/application-integration/surveymonkey-adapter/",
+				"trello-adapter": "/en/cloud/paas/application-integration/trello-adapter/",
+				"twilio-adapter": "/en/cloud/paas/application-integration/twilio-adapter/",
+				"twitter-adapter": "/en/cloud/paas/application-integration/twitter-adapter/",
+				"workday-adapter-user": "/en/cloud/paas/application-integration/workday-adapter-user/",
+				"zendesk-adapter": "/en/cloud/paas/application-integration/zendesk-adapter/",
+				"rest-api-fs": "/en/cloud/paas/application-integration/rest-api-fs/",
+				"rest-api": "/en/cloud/paas/application-integration/rest-api/",
+				"int-oci-licensing": "/en/cloud/paas/application-integration/int-oci-licensing/"
+			}	
+		},
+		{
+			"name": "exadata-cloud-en",
+			"search-enabled": false,
+			"button-text": "Go to GEN2",
+			"banner-text": "You are looking at the GEN1 version of Exadata Cloud documentation. Find GEN2 documentation at Exadata Database Service on Dedicated Infrastructure.",
+			"previous-releases":[
+				"/en/cloud/paas/exadata-cloud/"
+			],
+			"latest-docs": {
+				"*": "/en/engineered-systems/exadata-cloud-service/ecscm/"
+			}
+		},
+		{
+			"name": "exadata-cloud@customer-en",
+			"search-enabled": false,
+			"button-text": "Go to GEN2",
+			"banner-text": "You are looking at the GEN1 version of Exadata Cloud@Customer documentation. Find GEN2 documentation at Exadata Database Service on Cloud@Customer.",
+			"previous-releases":[
+				"/en/cloud/cloud-at-customer/exadata-cloud-at-customer/"
+			],
+			"latest-docs": {
+				"*": "/en/engineered-systems/exadata-cloud-at-customer/"
+			}
+		},
+		{
+			"name": "java-amc-en",
+			"button-text": "Read more",
+			"banner-text": "Users of the Advanced Management Console (AMC) feature should migrate to Java Management Service (JMS) by the end of 2024.",
+			"previous-releases": [
+				"/en/java/java-components/advanced-management-console/"
+			],
+		"latest-docs": {
+			"*": "/pls/topic/lookup?ctx=amc-latest&id=amc_to_jms_blog"
+			}
+		},
+		{
+			"name": "db-error-messages-en",
+			"button-text": "View Error Help",
+			"banner-text": "Error messages are now available in Error Help.",
+			"previous-releases": [
+				"/en/database/oracle/oracle-database/23/errmg/",
+				"/en/database/oracle/oracle-database/21/errmg/",
+				"/en/database/oracle/oracle-database/19/errmg/"
+		],
+		"latest-docs": {
+			"*": "/en/error-help/db/"
+			}
+		},
+		{
+			"name": "db-OLAP-en",
+			"banner-text": "Oracle Database 23ai is the final release in which OLAP is supported. OLAP is not eligible for Extended Support.",
+			"promo-releases": [
+				"/en/database/oracle/oracle-database/23/oladm/",
+				"/en/database/oracle/oracle-database/23/olaxs/",
+				"/en/database/oracle/oracle-database/23/olaap/",
+				"/en/database/oracle/oracle-database/23/olaug/"
+			]
+		},
+		{
+			"name": "transportation-global-trade-en",
+			"search-enabled": true,
+			"button-text": "View Latest",
+			"banner-text": "You are viewing an older release.",
+			"previous-releases": [
+				"/en/cloud/saas/transportation/24b/",
+				"/en/cloud/saas/transportation/24a/",
+				"/en/cloud/saas/transportation/23c/"
+		],
+		"latest-docs": {
+			"*": "/pls/topic/lookup?ctx=otm-latest&id=otm-gs",
+			"otmca": "/pls/topic/lookup?ctx=otm-latest&id=OTMCA",
+			"otmci": "/pls/topic/lookup?ctx=otm-latest&id=OTMCI",
+			"gtmcf": "/pls/topic/lookup?ctx=otm-latest&id=GTMCF",
+			"otmdm": "/pls/topic/lookup?ctx=otm-latest&id=OTMDM",
+			"otmda": "/pls/topic/lookup?ctx=otm-latest&id=OTMDA",
+			"gtmei": "/pls/topic/lookup?ctx=otm-latest&id=GTMEI",
+			"otmep": "/pls/topic/lookup?ctx=otm-latest&id=OTMEP",
+			"otmcg": "/pls/topic/lookup?ctx=otm-latest&id=OTMCG",
+			"otmic": "/pls/topic/lookup?ctx=otm-latest&id=OTMIC",
+			"otmio": "/pls/topic/lookup?ctx=otm-latest&id=OTMIO",
+			"otmit": "/pls/topic/lookup?ctx=otm-latest&id=OTMIT",
+			"otmli": "/pls/topic/lookup?ctx=otm-latest&id=OTMLI",
+			"otmol": "/pls/topic/lookup?ctx=otm-latest&id=OTMOL",
+			"otmpt": "/pls/topic/lookup?ctx=otm-latest&id=OTMPT",
+			"gtmrc": "/pls/topic/lookup?ctx=otm-latest&id=GTMRC",
+			"otmrn": "/pls/topic/lookup?ctx=otm-latest&id=OTMRN",			
+			"otmrd": "/pls/topic/lookup?ctx=otm-latest&id=OTMRD",
+			"otmra": "/pls/topic/lookup?ctx=otm-latest&id=OTMRA",
+			"otmro": "/pls/topic/lookup?ctx=otm-latest&id=OTMRO",
+			"otmse": "/pls/topic/lookup?ctx=otm-latest&id=OTMSE",
+			"otmxm": "/pls/topic/lookup?ctx=otm-latest&id=OTMXN",
+			"otmpr": "/pls/topic/lookup?ctx=otm-latest&id=OTMPR"
+			}
+		},     
+		{
+			"name": "public-sector-permitting-en",
+			"search-enabled": true,
+			"button-text": "View Latest",
+			"banner-text": "You are viewing an older release.",
+			"previous-releases": [
+				"/en/cloud/saas/public-sector-compliance-regulation-common/25a/",
+				"/en/cloud/saas/public-sector-compliance-regulation-common/24d/",
+				"/en/cloud/saas/public-sector-compliance-regulation-common/24c/",
+				"/en/cloud/saas/public-sector-compliance-regulation-common/24b/",
+				"/en/cloud/saas/public-sector-compliance-regulation-common/24a/",
+				"/en/cloud/saas/public-sector-compliance-regulation-common/23d/",
+				"/en/cloud/saas/public-sector-compliance-regulation-common/23c/",
+				"/en/cloud/saas/public-sector-compliance-regulation-common/23b/",
+				"/en/cloud/saas/public-sector-compliance-regulation-common/23a/",
+				"/en/cloud/saas/public-sector-compliance-regulation-common/22d/"
+		],
+		"latest-docs": {
+			"*": "/pls/topic/lookup?ctx=en/cloud/saas/public-sector-compliance-regulation-common&id=pscr",
+			"pssag": "/pls/topic/lookup?ctx=fa-latest&id=PSSAG",
+			"psrst": "/pls/topic/lookup?ctx=fa-latest&id=PSRST",
+			"pssec": "/pls/topic/lookup?ctx=fa-latest&id=PSSEC",
+			"psfbd": "/pls/topic/lookup?ctx=fa-latest&id=PSFBD",
+			"permi": "/pls/topic/lookup?ctx=fa-latest&id=PERMI",
+			"permu": "/pls/topic/lookup?ctx=fa-latest&id=PERMU",
+			"psagi": "/pls/topic/lookup?ctx=fa-latest&id=PSAGI",
+			"psffi": "/pls/topic/lookup?ctx=fa-latest&id=PSFFI",
+			"pscue": "/pls/topic/lookup?ctx=fa-latest&id=PSCUE",
+			"pscii": "/pls/topic/lookup?ctx=fa-latest&id=PSCII",
+			"pssci": "/pls/topic/lookup?ctx=fa-latest&id=PSSCI",
+			"pspzu": "/pls/topic/lookup?ctx=fa-latest&id=PSPZU",
+			"psceu": "/pls/topic/lookup?ctx=fa-latest&id=PSCEU",
+			"psblu": "/pls/topic/lookup?ctx=fa-latest&id=PSBLU"
+			}
+		},    
+		{
+			"name": "profitability-balance-sheet-en",
+            "button-text": "View Latest",
+            "banner-text": "You are viewing an older release.",
+            "previous-releases": [
+				"/en/industries/financial-services/ofs-analytical-applications/profitability-balance-sheet-base/22.12.01/"	
+            ],
+            "latest-docs": {
+                "*": "/pls/topic/lookup?ctx=cfe-latest&id=cash-flow-engine-getstarted",
+				"cnpbdfs": "/pls/topic/lookup?ctx=infra-latest&id=DATAF",
+				"cnpbdme": "/pls/topic/lookup?ctx=infra-latest&id=PBDME",
+				"cfehc": "/pls/topic/lookup?ctx=infra-latest&id=ICCHC"
+			}
+		},		
+		{
+            "name": "cash-flow-engine-en",
+            "button-text": "View Latest",
+            "banner-text": "You are viewing an older release.",
+            "previous-releases": [
+                "/en/industries/financial-services/ofs-analytical-applications/cash-flow-engine/22.12.01/"	
+            ],
+            "latest-docs": {
+                "*": "/pls/topic/lookup?ctx=cfe-latest&id=cash-flow-engine-getstarted",
+				"ccfer": "/pls/topic/lookup?ctx=infra-latest&id=CFEED",
+				"cfeep": "/pls/topic/lookup?ctx=infra-latest&id=CFEEP",
+				"cfecc": "/pls/topic/lookup?ctx=infra-latest&id=ICCCU",
+				"cfecr": "/pls/topic/lookup?ctx=infra-latest&id=ICCCR",
+				"cfirc": "/pls/topic/lookup?ctx=infra-latest&id=ICCIR",
+				"cfeei": "/pls/topic/lookup?ctx=infra-latest&id=ICCEI",
+				"bprul": "/pls/topic/lookup?ctx=infra-latest&id=ICCBP",
+				"cferp": "/pls/topic/lookup?ctx=infra-latest&id=ICCRP",
+				"ofspp": "/pls/topic/lookup?ctx=infra-latest&id=ICCPP",
+				"cfepr": "/pls/topic/lookup?ctx=infra-latest&id=ICCPR",
+				"prmod": "/pls/topic/lookup?ctx=infra-latest&id=ICCPM",
+				"cfefr": "/pls/topic/lookup?ctx=infra-latest&id=ICCFR",
+				"cfebp7": "/pls/topic/lookup?ctx=infra-latest&id=ICBPR",
+				"cfedm": "/pls/topic/lookup?ctx=infra-latest&id=ICCDM",
+				"cfep2": "/pls/topic/lookup?ctx=cfe-latest&id=CFEPR",
+				"cfep1": "/pls/topic/lookup?ctx=cfe-latest&id=PRCFE",
+				"cfebi": "/pls/topic/lookup?ctx=cfe-latest&id=RPCFE"
+			}
+		},
+		{
+            "name": "oml-db",
+			"search-enabled": true,
+            "button-text": "View Latest",
+            "banner-text": "You are viewing an older release.",
+            "previous-releases": [
+                "/en/database/oracle/oracle-database/19/dmapi/",
+				"/en/database/oracle/oracle-database/19/dmprg/",
+				"/en/database/oracle/oracle-database/19/dmcon/"
+            ],
+            "latest-docs": {
+                "*": "/pls/topic/lookup?ctx=oml4sql&id=oml4sql-index",
+				"dmapi": "/pls/topic/lookup?ctx=oml4sql&id=DMAPI",
+				"dmprg": "/pls/topic/lookup?ctx=oml4sql&id=DMPRG",
+				"dmcon": "/pls/topic/lookup?ctx=oml4sql&id=DMCON"
+			}
+		},
+		{
+            "name": "oml-ml",
+			"search-enabled": true,
+            "button-text": "View Latest",
+            "banner-text": "You are viewing an older release.",
+            "previous-releases": [
+				"/en/database/oracle/machine-learning/oml4sql/19",
+                "/en/database/oracle/machine-learning/oml4sql/21"
+            ],
+            "latest-docs": {
+                "*": "/pls/topic/lookup?ctx=oml4sql&id=oml4sql-index",
+				"dmapi": "/pls/topic/lookup?ctx=oml4sql&id=DMAPI",
+				"dmprg": "/pls/topic/lookup?ctx=oml4sql&id=DMPRG",
+				"dmcon": "/pls/topic/lookup?ctx=oml4sql&id=DMCON",
+				"mlsql": "/pls/topic/lookup?ctx=oml4sql&id=MLSQL"
+			}
+		},
+		{
+            "name": "oml-4py",
+			"search-enabled": true,
+            "button-text": "View Latest",
+            "banner-text": "You are viewing an older release.",
+            "previous-releases": [
+				"/en/database/oracle/machine-learning/oml4py/1"
+            ],
+            "latest-docs": {
+                "*": "/pls/topic/lookup?ctx=oml4py&id=getting-started",
+				"omlpl": "/pls/topic/lookup?ctx=oml4py&id=OMLPL",
+				"mlpki": "/pls/topic/lookup?ctx=oml4py&id=MLPKI",
+				"mlpug": "/pls/topic/lookup?ctx=oml4py&id=MLPUG",
+				"mlepe": "/pls/topic/lookup?ctx=oml4py&id=MLRPY" 
+			}
+		},
+		{
+            "name": "zero-downtime-migration",
+			"search-enabled": true,
+            "button-text": "View Latest",
+            "banner-text": "You are viewing an older release.",
+            "previous-releases": [
+				"/en/database/oracle/zero-downtime-migration/21.4/",
+				"/en/database/oracle/zero-downtime-migration/21.3/",
+				"/en/database/oracle/zero-downtime-migration/21.2/",
+				"/en/database/oracle/zero-downtime-migration/21.1/",
+				"/en/database/oracle/zero-downtime-migration/19.7/",
+				"/en/database/oracle/zero-downtime-migration/19.2/"
+			],
+            "latest-docs": {
+                "*": "/pls/topic/lookup?ctx=en/database/oracle/zero-downtime-migration&id=getting-started",
+				"zdmrn": "/en/database/oracle/zero-downtime-migration/21.5/zdmrn/",
+				"zdmli": "/en/database/oracle/zero-downtime-migration/21.5/zdmli/",
+				"zdmug": "/en/database/oracle/zero-downtime-migration/21.5/zdmug/",
+				"zdmrb": "/pls/topic/lookup?ctx=en/database/oracle/zero-downtime-migration&id=getting-started",
+				"zdmro": "/pls/topic/lookup?ctx=en/database/oracle/zero-downtime-migration&id=getting-started",
+				"zdmre": "/pls/topic/lookup?ctx=en/database/oracle/zero-downtime-migration&id=getting-started"
+			}
+		},
+		{
+            "name": "ofs-climate-change-analytics",
+            "button-text": "View Latest",
+            "banner-text": "You are viewing an older release.",
+            "previous-releases": [
+				"/en/industries/financial-services/ofs-analytical-applications/climate-change-analytics-cloud/23b/",
+                "/en/industries/financial-services/ofs-analytical-applications/climate-change-analytics-cloud/23a/"	
+            ],
+            "latest-docs": {
+                "*": "/pls/topic/lookup?ctx=cca-latest&id=ccacs-getstarted"
+			}
+		},
+		{
+            "name": "ofs-ifrs9-solution-cloud-service",
+            "button-text": "View Latest",
+            "banner-text": "You are viewing an older release.",
+            "previous-releases": [
+				"/en/industries/financial-services/ofs-analytical-applications/ifrs9-solution-cloud/23b/",
+				"/en/industries/financial-services/ofs-analytical-applications/ifrs9-solution-cloud/23a/"	
+            ],
+            "latest-docs": {
+                "*": "/pls/topic/lookup?ctx=ifrs9-latest&id=IFRS9-solution-getstarted"
+			}
+		},
+		{
+			"name": "nosql-database-en",
+			"search-enabled": true,
+			"button-text": "View Latest",
+			"banner-text": "You are viewing an older release.",
+			"previous-releases": [
+				"/en/database/other-databases/nosql-database/24.3/",
+				"/en/database/other-databases/nosql-database/24.1/",
+				"/en/database/other-databases/nosql-database/23.3/",
+				"/en/database/other-databases/nosql-database/23.1/",
+				"/en/database/other-databases/nosql-database/22.3/",
+				"/en/database/other-databases/nosql-database/22.2/",
+				"/en/database/other-databases/nosql-database/22.1/"
+				
+		],
+		"latest-docs": {
+			"*": "/pls/topic/lookup?ctx=nosqldb-latest&id=nosqldb_docs",
+			"nsadm": "/pls/topic/lookup?ctx=nosqldb-latest&id=NSADM",
+			"nscon": "/pls/topic/lookup?ctx=nosqldb-latest&id=NSCON",
+			"nskvl": "/pls/topic/lookup?ctx=nosqldb-latest&id=NSKVL",
+			"nsekv": "/pls/topic/lookup?ctx=nosqldb-latest&id=NSEKV",
+			"nssec": "/pls/topic/lookup?ctx=nosqldb-latest&id=NSSEC",
+			"nsdev": "/pls/topic/lookup?ctx=nosqldb-latest&id=NSDEV",
+			"nssql": "/pls/topic/lookup?ctx=nosqldb-latest&id=NSSQL",
+			"nssre": "/pls/topic/lookup?ctx=nosqldb-latest&id=NSSRE",
+			"nsint": "/pls/topic/lookup?ctx=nosqldb-latest&id=NSINT",
+			"nsstr": "/pls/topic/lookup?ctx=nosqldb-latest&id=NSSTR",
+			"nstbj": "/pls/topic/lookup?ctx=nosqldb-latest&id=NSTBJ",
+			"nsspr": "/pls/topic/lookup?ctx=nosqldb-latest&id=NSSPR",
+			"nsxcl": "/pls/topic/lookup?ctx=nosqldb-latest&id=NSXCL",
+			"nsxli": "/pls/topic/lookup?ctx=nosqldb-latest&id=NSXLI",
+			"nsxrn": "/pls/topic/lookup?ctx=nosqldb-latest&id=NSXRN",
+			"nsmon": "/pls/topic/lookup?ctx=nosqldb-latest&id=NSMON",
+			"nsplu": "/pls/topic/lookup?ctx=nosqldb-latest&id=NSPLU",			
+			"nsuti": "/pls/topic/lookup?ctx=nosqldb-latest&id=NSUTI"
+		}
+		},
+		{
+            "name": "webLogic-server-en",
+            "button-text": "View Latest",
+            "banner-text": "You are viewing an older release.",
+            "previous-releases": [
+                "/middleware/11119/wls/",
+				"/cd/E24329_01/",
+				"/middleware/1212/wls/",
+				"/middleware/1213/wls/",
+				"/middleware/1221/wls/",
+				"/middleware/12211/wls/",
+				"/middleware/12212/wls/"		
+            ],
+            "latest-docs": {
+                "*": "/en/middleware/fusion-middleware/weblogic-server/"
+            }
+        },
+		{
+            "name": "coherence-en",
+            "button-text": "View Latest",
+            "banner-text": "You are viewing an older release.",
+			"search-enabled": true,
+            "previous-releases": [
+                "/middleware/1212/coherence/",
+                "/middleware/1213/coherence/",
+                "/middleware/1221/coherence/",
+                "/middleware/12211/coherence/",
+                "/middleware/12212/coherence/",
+				"/cd/E24290_01/"
+            ],
+            "latest-docs": {
+                "*": "/en/middleware/fusion-middleware/coherence/"
+            }
+        },
+		{
+            "name": "oml4r-en",
+            "button-text": "View Latest",
+            "banner-text": "You are viewing an older release.",
+			"search-enabled": true,
+            "previous-releases": [
+                "/en/database/oracle/machine-learning/oml4r/1.5.1/"
+            ],
+            "latest-docs": {
+                "*": "/pls/topic/lookup?ctx=oml4r&id=OML4R_docs"
+            }
+        },
+		{
+			"name": "deprecated-books-rest-data-services-en",
+			"button-text": "View Latest",
+			"banner-text": "You are viewing an older release.",
+			"previous-releases": [
+				"/en/database/oracle/oracle-rest-data-services/24.2/aelrn/",
+				"/en/database/oracle/oracle-rest-data-services/24.1/aelrn/",
+				"/en/database/oracle/oracle-rest-data-services/23.4/aelrn/",
+				"/en/database/oracle/oracle-rest-data-services/23.3/aelrn/",
+				"/en/database/oracle/oracle-rest-data-services/23.2/aelrn/",
+				"/en/database/oracle/oracle-rest-data-services/23.1/aelrn/",
+				"/en/database/oracle/oracle-rest-data-services/22.4/aelrn/",
+				"/en/database/oracle/oracle-rest-data-services/22.3/aelrn/",
+				"/en/database/oracle/oracle-rest-data-services/22.2/aelrn/",
+				"/en/database/oracle/oracle-rest-data-services/22.1/aelrn/",
+				"/en/database/oracle/oracle-rest-data-services/21.4/aelrn/",
+				"/en/database/oracle/oracle-rest-data-services/21.3/aelrn/",
+				"/en/database/oracle/oracle-rest-data-services/21.2/aelrn/",
+				"/en/database/oracle/oracle-rest-data-services/21.1/aelrn/",
+				"/en/database/oracle/oracle-rest-data-services/20.4/aelrn/",
+				"/en/database/oracle/oracle-rest-data-services/20.3/aelrn/",
+				"/en/database/oracle/oracle-rest-data-services/20.2/aelrn/",
+				"/en/database/oracle/oracle-rest-data-services/19.4/aelrn/",
+				"/en/database/oracle/oracle-rest-data-services/19.2/aelrn/",
+				"/en/database/oracle/oracle-rest-data-services/19.1/aelrn/",
+				"/en/database/oracle/oracle-rest-data-services/18.4/aelrn/",
+				"/en/database/oracle/oracle-rest-data-services/18.3/aelrn/",
+				"/en/database/oracle/oracle-rest-data-services/18.2/aelrn/",
+				"/en/database/oracle/oracle-rest-data-services/21.4/aelig/",
+				"/en/database/oracle/oracle-rest-data-services/21.3/aelig/",
+				"/en/database/oracle/oracle-rest-data-services/21.2/aelig/",
+				"/en/database/oracle/oracle-rest-data-services/21.1/aelig/",
+				"/en/database/oracle/oracle-rest-data-services/20.4/aelig/",
+				"/en/database/oracle/oracle-rest-data-services/20.3/aelig/",
+				"/en/database/oracle/oracle-rest-data-services/20.2/aelig/",
+				"/en/database/oracle/oracle-rest-data-services/19.4/aelig/",
+				"/en/database/oracle/oracle-rest-data-services/19.2/aelig/",
+				"/en/database/oracle/oracle-rest-data-services/19.1/aelig/",
+				"/en/database/oracle/oracle-rest-data-services/18.4/aelig/",
+				"/en/database/oracle/oracle-rest-data-services/18.3/aelig/",
+				"/en/database/oracle/oracle-rest-data-services/18.2/aelig/"
+			],
+			"latest-docs": {
+				"aelrn": "/pls/topic/lookup?ctx=ords-latest&id=ords-get-started",
+				"aelig": "/pls/topic/lookup?ctx=ords-latest&id=ords-books"
+			}
+		},
+		{
+			"name": "rest-data-services-en",
+			"button-text": "View Latest",
+			"banner-text": "You are viewing an older release.",
+			"search-enabled": true,
+			"previous-releases": [
+				"/en/database/oracle/oracle-rest-data-services/24.3/",
+				"/en/database/oracle/oracle-rest-data-services/24.2/",
+				"/en/database/oracle/oracle-rest-data-services/24.1/",
+				"/en/database/oracle/oracle-rest-data-services/23.4/",
+				"/en/database/oracle/oracle-rest-data-services/23.3/",
+				"/en/database/oracle/oracle-rest-data-services/23.2/",
+				"/en/database/oracle/oracle-rest-data-services/23.1/",
+				"/en/database/oracle/oracle-rest-data-services/22.4/",
+				"/en/database/oracle/oracle-rest-data-services/22.3/",
+				"/en/database/oracle/oracle-rest-data-services/22.2/",
+				"/en/database/oracle/oracle-rest-data-services/22.1/",
+				"/en/database/oracle/oracle-rest-data-services/21.4/",
+				"/en/database/oracle/oracle-rest-data-services/21.3/",
+				"/en/database/oracle/oracle-rest-data-services/21.2/",
+				"/en/database/oracle/oracle-rest-data-services/21.1/",
+				"/en/database/oracle/oracle-rest-data-services/20.4/",
+				"/en/database/oracle/oracle-rest-data-services/20.3/",
+				"/en/database/oracle/oracle-rest-data-services/20.2/",
+				"/en/database/oracle/oracle-rest-data-services/19.4/",
+				"/en/database/oracle/oracle-rest-data-services/19.2/",
+				"/en/database/oracle/oracle-rest-data-services/19.1/",
+				"/en/database/oracle/oracle-rest-data-services/18.4/",
+				"/en/database/oracle/oracle-rest-data-services/18.3/",
+				"/en/database/oracle/oracle-rest-data-services/18.2/"
+			],
+			"latest-docs": {
+				"*": "/pls/topic/lookup?ctx=ords-latest&id=ords-get-started"
+			}
+		},
+		{
+			"name": "analytics-en",
+			"search-enabled": true,
+			"button-text": "Go to latest release",
+			"banner-text": "You're viewing an older release.",
+			"previous-releases": [
+				"/en/cloud/saas/analytics/24r4/",
+				"/en/cloud/saas/analytics/24r3/",
+				"/en/cloud/saas/analytics/24r2/",
+				"/en/cloud/saas/analytics/24r1/",
+				"/en/cloud/saas/analytics/23r4/",
+				"/en/cloud/saas/analytics/23r3/",
+				"/en/cloud/saas/analytics/23r2/",
+				"/en/cloud/saas/analytics/23r1/",
+				"/en/cloud/saas/analytics/22r4/"
+			],
+			"latest-docs": {
+				"*": "/pls/topic/lookup?ctx=faw-latest&id=analytics-apps-getstarted",
+				"fawwn": "/pls/topic/lookup?ctx=faw-latest&id=FAWWN",
+				"fawag": "/pls/topic/lookup?ctx=faw-latest&id=FAWAG",
+				"faiae": "/pls/topic/lookup?ctx=faw-latest&id=FAIAE",
+				"fahia": "/pls/topic/lookup?ctx=faw-latest&id=FAHIA",
+				"fascm": "/pls/topic/lookup?ctx=faw-latest&id=FASCM",
+				"fawki": "/pls/topic/lookup?ctx=faw-latest&id=FAWKI",
+				"fawlg": "/pls/topic/lookup?ctx=faw-latest&id=FAWLG",
+				"fawcx": "/pls/topic/lookup?ctx=faw-latest&id=FAWCX",
+				"fawug": "/pls/topic/lookup?ctx=faw-latest&id=FAWUG",
+				"fawig": "/pls/topic/lookup?ctx=faw-latest&id=FAWIG"
+			}
+		},
+		{
+			"name": "analytics-en",
+			"search-enabled": true,
+			"button-text": "Go to latest release",
+			"banner-text": "You're viewing an older release.",
+			"previous-releases": [
+				"/en/cloud/saas/analytics/22r3/"
+			],
+			"latest-docs": {
+				"*": "/pls/topic/lookup?ctx=faw-latest&id=analytics-apps-getstarted",
+				"fawwn": "/pls/topic/lookup?ctx=faw-latest&id=FAWWN",
+				"fawag": "/pls/topic/lookup?ctx=faw-latest&id=FAWAG",
+				"faiae": "/pls/topic/lookup?ctx=faw-latest&id=FAIAE",
+				"fahia": "/pls/topic/lookup?ctx=faw-latest&id=FAHIA",
+				"fascm": "/pls/topic/lookup?ctx=faw-latest&id=FASCM",
+				"fawki": "/pls/topic/lookup?ctx=faw-latest&id=FAWKI",
+				"fawlg": "/pls/topic/lookup?ctx=faw-latest&id=FAWLG",
+				"fawcx": "/pls/topic/lookup?ctx=faw-latest&id=FAWCX"
+			}
+		},
+		{
+			"name": "esso-en",
+			"button-text": "More Information",
+			"banner-text": "This documentation applies to both 11g (11.1.2.3) and 11g (11.1.2.4).",
+			"previous-releases": [
+				"/cd/E52734_01/esso"
+			],
+			"latest-docs": {
+				"*": "https://www.oracle.com/middleware/technologies/enterprise-single-sign-on.html"
+			}
+		},
+		{
+			"name": "identity-cloud-en",
+			"button-text": "Was my tenancy migrated?",
+			"banner-text": "You're viewing the documentation for Oracle Identity Cloud Service tenancies. These tenancies have not been migrated to OCI IAM.",
+			"previous-releases": [
+				"/en/cloud/paas/identity-cloud"
+			],
+			"latest-docs": {
+				"*": "https://docs.oracle.com/iaas/Content/Identity/getstarted/identity-domains.htm#identity_documentation"
+			}
+		},
+		{
+			"name": "cx-commerce-en",
+			"button-text": "Go to latest release",
+			"banner-text": "You're viewing an older release.",
+			"previous-releases": [
+				"/en/cloud/saas/cx-commerce/21c/",
+				"/en/cloud/saas/cx-commerce/21b/",
+				"/en/cloud/saas/cx-commerce/21a/",
+				"/en/cloud/saas/cx-commerce/20d/",
+				"/en/cloud/saas/cx-commerce/20c/",
+				"/en/cloud/saas/cx-commerce/20b/",
+				"/en/cloud/saas/commerce-cloud/20a/",
+				"/en/cloud/saas/commerce-cloud/19d/",
+				"/cd/E71751_01/Cloud.16-1/",
+				"/cd/E73348_01/Cloud.16-2/",
+				"/cd/E75910_01/Cloud.16-3/",
+				"/cd/E77817_01/Cloud.16-4/",
+				"/cd/E83821_01/Cloud.17-1/",
+				"/cd/E86647_01/Cloud.17-2/",
+				"/cd/E87794_01/Cloud.17-3/",
+				"/cd/E89191_01/Cloud.17-4/",
+				"/cd/E93106_01/Cloud.18A/",
+				"/cd/E95861_01/Cloud.18B/",
+				"/cd/E95861_01/Cloud.18BMP/",
+				"/cd/E97801_01/",
+				"/cd/E97801_02/",
+				"/cd/E97801_03/",
+				"/cd/E97801_04/"				
+			],
+			"latest-docs": { 
+				"*": "https://docs.oracle.com/pls/topic/lookup?ctx=en/cloud/saas&id=commercecsgs",
+				"ccski": "/pls/topic/lookup?ctx=cx-commerce-latest&id=CCSKI",
+				"uoccs": "/pls/topic/lookup?ctx=cx-commerce-latest&id=UOCCS",
+				"agent": "/pls/topic/lookup?ctx=cx-commerce-latest&id=AGENT",
+				"ccrep": "/pls/topic/lookup?ctx=cx-commerce-latest&id=CCREP",
+				"clice": "/pls/topic/lookup?ctx=cx-commerce-latest&id=CLICE",
+				"widge": "/pls/topic/lookup?ctx=cx-commerce-latest&id=WIDGE",
+				"ccdev": "/pls/topic/lookup?ctx=cx-commerce-latest&id=CCDEV",
+				"exage": "/pls/topic/lookup?ctx=cx-commerce-latest&id=EXAGE",
+				"cxocc": "/pls/topic/lookup?ctx=cx-commerce-latest&id=CXOCC",
+				"dosfa": "/pls/topic/lookup?ctx=cx-commerce-latest&id=DOSFA",
+				"ccint": "/pls/topic/lookup?ctx=cx-commerce-latest&id=CCINT",
+				"cccpq": "/pls/topic/lookup?ctx=cx-commerce-latest&id=CCINT",
+				"cpqco": "/pls/topic/lookup?ctx=cx-commerce-latest&id=CCINT",
+				"ccfom": "/pls/topic/lookup?ctx=cx-commerce-latest&id=CCINT",
+				"ccmar": "/pls/topic/lookup?ctx=cx-commerce-latest&id=CCINT",
+				"ccrom": "/pls/topic/lookup?ctx=cx-commerce-latest&id=CCINT",
+				"occ-known-issues": "/pls/topic/lookup?ctx=cx-commerce-latest&id=CCSKI",
+				"occ-user": "/pls/topic/lookup?ctx=cx-commerce-latest&id=UOCCS",
+				"occ-agent-user": "/pls/topic/lookup?ctx=cx-commerce-latest&id=AGENT",
+				"occ-reports": "/pls/topic/lookup?ctx=cx-commerce-latest&id=CCREP",
+				"occ-license": "/pls/topic/lookup?ctx=cx-commerce-latest&id=CLICE",
+				"occ-widget-developer": "/pls/topic/lookup?ctx=cx-commerce-latest&id=WIDGE",
+				"occ-developer": "/pls/topic/lookup?ctx=cx-commerce-latest&id=CCDEV",
+				"occ-agent-developer": "/pls/topic/lookup?ctx=cx-commerce-latest&id=EXAGE",
+				"occ-cpq-integration": "/pls/topic/lookup?ctx=cx-commerce-latest&id=CCINT",
+				"occ-order-management-integration": "/pls/topic/lookup?ctx=cx-commerce-latest&id=CCINT",
+				"occ-responsys-integration": "/pls/topic/lookup?ctx=cx-commerce-latest&id=CCINT",
+				"occ-retail-oms-integration": "/pls/topic/lookup?ctx=cx-commerce-latest&id=CCINT"				
+			}
+		},
+		{
+			"name": "taleo-enterprise-23c-23d-24a-24b-24c-24d-en",
+			"search-enabled":"true",
+			"button-text": "View Latest",
+			"banner-text": "You are viewing an older release.",
+			"previous-releases": [
+				"/en/cloud/saas/taleo-enterprise/24d/",
+				"/en/cloud/saas/taleo-enterprise/24c/",
+				"/en/cloud/saas/taleo-enterprise/24b/",
+				"/en/cloud/saas/taleo-enterprise/24a/",
+				"/en/cloud/saas/taleo-enterprise/23d/",
+				"/en/cloud/saas/taleo-enterprise/23c/"
+			],
+			"latest-docs": {
+				"*": "/pls/topic/lookup?ctx=en/cloud/saas/taleo-enterprise&id=taleo-enterprise",
+				"otcug": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTCUG",
+				"otrdc": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTRDC",
+				"otiqg": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTIQG",
+				"ottcg": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTTCG",
+				"otrcg": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTRCG",
+				"otscc": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTSCC",
+				"tsscg": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=TSSCG",
+				"otrst": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTRST",
+				"otccu": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTCCU",
+				"ottug": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTTUG",
+				"otbou": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTBOU",
+				"otfru": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTFRU",
+				"otscu": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTSCU",
+				"tssug": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=TSSUG",
+				"otwsu": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTWSU",
+				"otast": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTAST",
+				"obopc": "/pls/topic/lookup?ctx=en/cloud/saas/taleo-enterprise&id=taleo-enterprise"
+			}
+		},
+		{
+			"name": "taleo-enterprise-en",
+			"search-enabled":"true",
+			"button-text": "View Latest",
+			"banner-text": "You are viewing an older release.",
+			"previous-releases": [
+				"/en/cloud/saas/taleo-enterprise/23b/",
+				"/en/cloud/saas/taleo-enterprise/23a/",
+				"/en/cloud/saas/taleo-enterprise/22a/",
+				"/en/cloud/saas/taleo-enterprise/22b/",
+				"/en/cloud/saas/taleo-enterprise/22c/",
+				"/en/cloud/saas/taleo-enterprise/22d/"
+			],
+			"latest-docs": {
+				"*": "/pls/topic/lookup?ctx=en/cloud/saas/taleo-enterprise&id=taleo-enterprise",
+				"otast": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTAST",
+				"otcug": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTCUG",
+				"otrdc": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTRDC",
+				"otiqg": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTIQG",
+				"ottcg": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTTCG",
+				"otrcg": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTRCG",
+				"otrmz": "/pls/topic/lookup?ctx=en/cloud/saas/taleo-enterprise&id=taleo-enterprise",
+				"otscc": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTSCC",
+				"tsscg": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=TSSCG",
+				"otrst": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTRST",
+				"otccu": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTCCU",
+				"ottug": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTTUG",
+				"otbou": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTBOU",
+				"obopc": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OBOPC",
+				"otfru": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTFRU",
+				"otscu": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTSCU",
+				"tssug": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=TSSUG",
+				"otwsu": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTWSU"
+			}
+		},
+		{
+			"name": "taleo-enterprise-en",
+			"search-enabled":"true",
+			"button-text": "View Latest",
+			"banner-text": "You are viewing an older release.",
+			"previous-releases": [
+				"/en/cloud/saas/taleo-enterprise/21d/"
+			],
+			"latest-docs": {
+				"*": "/pls/topic/lookup?ctx=en/cloud/saas/taleo-enterprise&id=taleo-enterprise",
+				"otast": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTAST",
+				"otcug": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTCUG",
+				"otrdc": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTRDC",
+				"otiqg": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTIQG",
+				"ottcg": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTTCG",
+				"otrcg": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTRCG",
+				"otrmz": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTRMZ",
+				"otscc": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTSCC",
+				"tsscg": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=TSSCG",
+				"otrst": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTRST",
+				"otccu": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTCCU",
+				"ottug": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTTUG",
+				"otbou": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTBOU",
+				"obopc": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OBOPC",
+				"otfru": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTFRU",
+				"otscu": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTSCU",
+				"tssug": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=TSSUG",
+				"otwsu": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTWSU"
+			}
+		},
+		{
+			"name": "taleo-enterprise-en",
+			"search-enabled":"true",
+			"button-text": "View Latest",
+			"banner-text": "You are viewing an older release.",
+			"previous-releases": [
+				"/en/cloud/saas/taleo-enterprise/21c/"
+			],
+			"latest-docs": {
+				"*": "/pls/topic/lookup?ctx=en/cloud/saas/taleo-enterprise&id=taleo-enterprise",
+				"otast": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTAST",
+				"otcug": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTCUG",
+				"otrdc": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTRDC",
+				"otiqg": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTIQG",
+				"ottcg": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTTCG",
+				"otrcg": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTRCG",
+				"otrmz": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTRMZ",
+				"otscc": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTSCC",
+				"tsscg": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=TSSCG",
+				"otccu": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTCCU",
+				"otfru": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTFRU",
+				"ottug": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTTUG",
+				"otbou": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTBOU",
+				"obopc": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OBOPC",
+				"otrec": "/pls/topic/lookup?ctx=en/cloud/saas/taleo-enterprise&id=taleo-enterprise",
+				"otscu": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTSCU",
+				"tssug": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=TSSUG",
+				"otwsu": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTWSU",
+				"otrst": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTRST"
+			}
+		},
+		{
+			"name": "taleo-enterprise-en",
+			"search-enabled":"true",
+			"button-text": "View Latest",
+			"banner-text": "You are viewing an older release.",
+			"previous-releases": [
+				"/en/cloud/saas/taleo-enterprise/21b/"
+			],
+			"latest-docs": {
+				"*": "/pls/topic/lookup?ctx=en/cloud/saas/taleo-enterprise&id=taleo-enterprise",
+				"otast": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTAST",
+				"otcug": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTCUG",
+				"otrdc": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTRDC",
+				"otiqg": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTIQG",
+				"ottcg": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTTCG",
+				"otpcg": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTPCG",
+				"otrcg": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTRCG",
+				"otrmz": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTRMZ",
+				"otscc": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTSCC",
+				"tsscg": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=TSSCG",
+				"otccu": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTCCU",
+				"otfru": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTFRU",
+				"ottug": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTTUG",
+				"otbou": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTBOU",
+				"obopc": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OBOPC",
+				"otrec": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTREC",
+				"otscu": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTSCU",
+				"tssug": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=TSSUG",
+				"otwsu": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTWSU",
+				"otrst": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTRST"
+			}
+		},
+		{
+			"name": "taleo-enterprise-en",
+			"search-enabled":"true",
+			"button-text": "View Latest",
+			"banner-text": "You are viewing an older release.",
+			"previous-releases": [
+				"/en/cloud/saas/taleo-enterprise/20d/",
+				"/en/cloud/saas/taleo-enterprise/20b/"
+			],
+			"latest-docs": {
+				"*": "/pls/topic/lookup?ctx=en/cloud/saas/taleo-enterprise&id=taleo-enterprise",
+				"otast": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTAST",
+				"otcug": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTCUG",
+				"otrdc": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTRDC",
+				"otiqg": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTIQG",
+				"ottcg": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTTCG",
+				"otprg": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTPRG",
+				"otpog": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTPOG",
+				"otrcg": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTRCG",
+				"otrmz": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTRMZ",
+				"otscc": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTSCC",
+				"tsscg": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=TSSCG",
+				"otccu": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTCCU",
+				"otfru": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTFRU",
+				"ottug": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTTUG",
+				"otbou": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTBOU",
+				"obopc": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OBOPC",
+				"otpug": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTPUG",
+				"otrec": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTREC",
+				"otscu": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTSCU",
+				"tssug": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=TSSUG",
+				"otwsu": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTWSU",
+				"otrst": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTRST"
+			}
+		},
+		{
+			"name": "taleo-enterprise-en-21a",
+			"search-enabled":"true",
+			"button-text": "View Latest",
+			"banner-text": "You are viewing an older release.",
+			"previous-releases": [
+				"/en/cloud/saas/taleo-enterprise/21a/"
+			],
+			"latest-docs": {
+				"*": "/pls/topic/lookup?ctx=en/cloud/saas/taleo-enterprise&id=taleo-enterprise",
+				"otast": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTAST",
+				"otcug": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTCUG",
+				"otrdc": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTRDC",
+				"otiqg": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTIQG",
+				"ottcg": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTTCG",
+				"otrcg": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTRCG",
+				"otrmz": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTRMZ",
+				"otscc": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTSCC",
+				"tsscg": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=TSSCG",
+				"otccu": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTCCU",
+				"otfru": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTFRU",
+				"ottug": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTTUG",
+				"otbou": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTBOU",
+				"obopc": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OBOPC",
+				"otrec": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTREC",
+				"otscu": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTSCU",
+				"tssug": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=TSSUG",
+				"otwsu": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTWSU",
+				"otrst": "/pls/topic/lookup?ctx=taleo-enterprise-latest&id=OTRST",
+				"otpcg": "/pls/topic/lookup?ctx=en/cloud/saas/taleo-enterprise&id=taleo-enterprise",
+				"otprg": "/pls/topic/lookup?ctx=en/cloud/saas/taleo-enterprise&id=taleo-enterprise",
+				"otpog": "/pls/topic/lookup?ctx=en/cloud/saas/taleo-enterprise&id=taleo-enterprise",
+				"otpug": "/pls/topic/lookup?ctx=en/cloud/saas/taleo-enterprise&id=taleo-enterprise"
+			}
+		},
+		{
+			"name": "goldengate-en",
+			"button-text": "View Latest",
+			"banner-text": "You are viewing an older release.",
+			"previous-releases": [
+				"/en/middleware/goldengate/core/19.1/",
+				"/en/middleware/goldengate/core/18.1/",
+				"/en/middleware/goldengate/core/12.3.0.1/",
+				"/goldengate/c1221/gg-winux/",
+				"/goldengate/1212/gg-winux/"
+			],
+			"latest-docs": {
+				"*": "/en/middleware/goldengate/core/index.html"
+			}
+		},
+		{
+			"name": "database-en",
+			"button-text": "View Latest",
+			"banner-text": "You are viewing an older release.",
+			"search-enabled": true,
+			"previous-releases": [
+				"/cd/E11882_01/",
+				"/cd/B28359_01/",
+				"/cd/B19306_01/",
+				"/database/121/",
+				"/en/database/oracle/oracle-database/12.2/",
+				"/en/database/oracle/oracle-database/18/"
+			],
+			"latest-docs": {
+				"*": "/pls/topic/lookup?ctx=dblatest"
+			}
+		},
+		{
+			"name": "integration-cloud-service-en",
+			"button-text": "Go to Oracle Integration",
+			"banner-text": "This service no longer delivers new features. Get the latest features with Oracle Integration.",
+			"previous-releases": [
+				"/en/cloud/paas/integration-cloud-service/"
+			],
+			"latest-docs": {
+				"*": "/en/cloud/paas/integration-cloud/index.html"
+			}
+		},
+		{
+			"name": "process-cloud-en",
+			"button-text": "Go to Oracle Integration",
+			"banner-text": "This service no longer delivers new features. Get the latest features with Oracle Integration.",
+			"previous-releases": [
+				"/en/cloud/paas/process-cloud/"
+			],
+			"latest-docs": {
+				"*": "/en/cloud/paas/integration-cloud/index.html"
+			}
+		},
+		{
+			"name": "integration-cloud-api-gateway",
+			"button-text": "Go to Oracle Integration",
+			"banner-text": "Did you land in the right place? Explore our recommended service, Oracle Integration, to learn about integrating with Oracle API Gateway.",
+			"previous-releases": [
+				"/en/cloud/paas/api-manager-cloud/"
+			],
+			"latest-docs": {
+				"*": "/en/cloud/paas/integration-cloud/index.html"
+			}
+		},
+		{
+			"name": "integration-cloud-machine",
+			"button-text": "Go to Oracle Integration",
+			"banner-text": "Did you land in the right place? Explore our recommended service, Oracle Integration, in Oracle Cloud Infrastructure, to learn about our latest features.",
+			"previous-releases": [
+				"/cloud-machine/latest/intcs_gs/"
+			],
+			"latest-docs": {
+				"*": "/en/cloud/paas/integration-cloud/index.html"
+			}
+		},
+		{
+			"name": "integration-cloud-managed-file-transfer",
+			"button-text": "Go to Managed File Transfer Cloud Service",
+			"banner-text": "Did you land in the right place? Explore Managed File Transfer Cloud Service in Oracle Cloud Infrastructure to learn about our latest features.",
+			"previous-releases": [
+				"/cloud-machine/latest/managed-file-transfer-cloud/"
+			],
+			"latest-docs": {
+				"*": "/en/cloud/paas/managed-file-transfer-cloud/index.html"
+			}
+		},
+		{
+			"name": "integration-soa-cloud",
+			"button-text": "Go to SOA Cloud Service",
+			"banner-text": "Did you land in the right place? Explore SOA Cloud Service in Oracle Cloud Infrastructure to learn about our latest features.",
+			"previous-releases": [
+				"/cloud-machine/latest/soacs_gs/"
+			],
+			"latest-docs": {
+				"*": "/en/cloud/paas/soa-cloud/index.html"
+			}
+		},
+		{
+			"name": "soa-cloud-service",
+			"button-text": "Read More",
+			"banner-text": "Migrate to Oracle SOA Suite for Oracle Cloud Infrastructure before March 31, 2025.",
+			"previous-releases": [
+				"/en/cloud/paas/soa-cloud/"
+			],
+			"latest-docs": {
+				"*": "/pls/topic/lookup?ctx=en/cloud/paas/soa-cloud&id=CSBCS-GUID-46CF3874-2096-41F1-87D7-96A73FE57E1C"
+			}
+		},
+		{
+			"name": "managed-file-transfer-cloud-service-en",
+			"button-text": "Go to SOA Suite on Marketplace",
+			"banner-text": "Oracle MFT Cloud Service is not available for new accounts. Instead, use Oracle SOA Suite on Marketplace.",
+			"previous-releases": [
+				"/en/cloud/paas/managed-file-transfer-cloud/"
+			],
+			"latest-docs": {
+				"*": "/pls/topic/lookup?ctx=en/cloud/paas/soa&id=SOAMP"
+			}
+		},
+		{
+            "name": "app-container-cloud-en",
+            "button-text": "Learn more",
+            "banner-text": "Notice: Oracle Application Container Cloud Service (ACCS) will be going offline (end of life or EOL) and shut down on March 31, 2025.",
+            "previous-releases": [
+                "en/cloud/paas/app-container-cloud/"
+            ],
+            "latest-docs": {
+				"*": "/pls/topic/lookup?ctx=en/cloud/paas/app-container-cloud&id=ACCMI-GUID-D0471912-1F60-483B-8CB4-12F16075ED21"
+			}
+		},
+		{
+			"name": "fa-24b-24c-24d-25a-applications-common",
+			"search-enabled": true,
+			"button-text": "Go to latest release",
+			"banner-text": "You're viewing an older release.",
+			"previous-releases": [
+				"/en/cloud/saas/applications-common/25a/",
+				"/en/cloud/saas/applications-common/24d/",
+				"/en/cloud/saas/applications-common/24c/",
+				"/en/cloud/saas/applications-common/24b/"			
+
+			],
+			"latest-docs": {
+				"*": "/pls/topic/lookup?ctx=en/cloud/saas/applications-common&id=apps-common",
+				"oalid": "/pls/topic/lookup?ctx=fa-latest&id=OALID",
+				"oaext": "/pls/topic/lookup?ctx=fa-latest&id=OAEXT",
+				"biacc": "/pls/topic/lookup?ctx=fa-latest&id=BIACC",
+				"faacc": "/pls/topic/lookup?ctx=fa-latest&id=FAACC",
+				"facia": "/pls/topic/lookup?ctx=fa-latest&id=FACIA",
+				"facsa": "/pls/topic/lookup?ctx=fa-latest&id=FACSA",
+				"faesc": "/pls/topic/lookup?ctx=fa-latest&id=FAESC",
+				"oacpr": "/pls/topic/lookup?ctx=fa-latest&id=OACPR",
+				"oafsm": "/pls/topic/lookup?ctx=fa-latest&id=OAFSM",
+				"faser": "/pls/topic/lookup?ctx=fa-latest&id=FASER",
+				"oeswa": "/pls/topic/lookup?ctx=fa-latest&id=OESWA",
+				"oedma": "/pls/topic/lookup?ctx=fa-latest&id=OEDMA",
+				"cgsac": "/pls/topic/lookup?ctx=fa-latest&id=CGSAC",
+				"fagda": "/pls/topic/lookup?ctx=fa-latest&id=FAGDA",
+				"oacex": "/pls/topic/lookup?ctx=fa-latest&id=OACEX",
+				"oacsm": "/pls/topic/lookup?ctx=fa-latest&id=OACSM",
+				"farca": "/pls/topic/lookup?ctx=fa-latest&id=FARCA",
+				"fabps": "/pls/topic/lookup?ctx=fa-latest&id=FABPS",
+				"farhd": "/pls/topic/lookup?ctx=fa-latest&id=FARHD",
+				"faurd": "/pls/topic/lookup?ctx=fa-latest&id=FAURD"
+			}
+		},
+		{
+			"name": "fa-24b-24c-24d-25a-financials",
+			"search-enabled": true,
+			"button-text": "Go to latest release",
+			"banner-text": "You're viewing an older release.",
+			"previous-releases": [
+				"/en/cloud/saas/financials/25a/",
+				"/en/cloud/saas/financials/24d/",
+				"/en/cloud/saas/financials/24c/",
+				"/en/cloud/saas/financials/24b/"
+			],
+			"latest-docs": {
+				"*": "/pls/topic/lookup?ctx=en/cloud/saas/financials&id=financials",
+				"fafcf": "/pls/topic/lookup?ctx=fa-latest&id=FAFCF",
+				"oaahm": "/pls/topic/lookup?ctx=fa-latest&id=OAAHM",
+				"faugl": "/pls/topic/lookup?ctx=fa-latest&id=FAUGL",
+				"fausf": "/pls/topic/lookup?ctx=fa-latest&id=FAUSF",
+				"occar": "/pls/topic/lookup?ctx=fa-latest&id=OCCAR",
+				"facsf": "/pls/topic/lookup?ctx=fa-latest&id=FACSF",
+				"fauus": "/pls/topic/lookup?ctx=fa-latest&id=FAUUS",
+				"faiac": "/pls/topic/lookup?ctx=fa-latest&id=FAIAC",
+				"faiah": "/pls/topic/lookup?ctx=fa-latest&id=FAIAH",
+				"faias": "/pls/topic/lookup?ctx=fa-latest&id=FAIAS",
+				"faigl": "/pls/topic/lookup?ctx=fa-latest&id=FAIGL",
+				"faiex": "/pls/topic/lookup?ctx=fa-latest&id=FAIEX",
+				"faiap": "/pls/topic/lookup?ctx=fa-latest&id=FAIAP",
+				"faigf": "/pls/topic/lookup?ctx=fa-latest&id=FAIGF",
+				"faipp": "/pls/topic/lookup?ctx=fa-latest&id=FAIPP",
+				"fairp": "/pls/topic/lookup?ctx=fa-latest&id=FAIRP",
+				"faisl": "/pls/topic/lookup?ctx=fa-latest&id=FAISL",
+				"faitx": "/pls/topic/lookup?ctx=fa-latest&id=FAITX",
+				"oafrm": "/pls/topic/lookup?ctx=fa-latest&id=OAFRM",
+				"faofb": "/pls/topic/lookup?ctx=fa-latest&id=FAOFB",
+				"ocuar": "/pls/topic/lookup?ctx=fa-latest&id=OCUAR",
+				"faalm": "/pls/topic/lookup?ctx=fa-latest&id=FAALM",
+				"fawde": "/pls/topic/lookup?ctx=fa-latest&id=FAWDE",
+				"fauap": "/pls/topic/lookup?ctx=fa-latest&id=FAUAP",
+				"faugf": "/pls/topic/lookup?ctx=fa-latest&id=FAUGF",
+				"faufa": "/pls/topic/lookup?ctx=fa-latest&id=FAUFA",
+				"faups": "/pls/topic/lookup?ctx=fa-latest&id=FAUPS",
+				"fappp": "/pls/topic/lookup?ctx=fa-latest&id=FAPPP",
+				"faofc": "/pls/topic/lookup?ctx=fa-latest&id=FAOFC",
+				"fafrm": "/pls/topic/lookup?ctx=fa-latest&id=FAFRM",
+				"fausl": "/pls/topic/lookup?ctx=fa-latest&id=FAUSL",
+				"fautx": "/pls/topic/lookup?ctx=fa-latest&id=FAUTX",
+				"farfa": "/pls/topic/lookup?ctx=fa-latest&id=FARFA",
+				"oefbf": "/pls/topic/lookup?ctx=fa-latest&id=OEFBF",
+				"oeswf": "/pls/topic/lookup?ctx=fa-latest&id=OESWF",
+				"oedmf": "/pls/topic/lookup?ctx=fa-latest&id=OEDMF",
+				"oadsr": "/pls/topic/lookup?ctx=fa-latest&id=OADSR",
+				"fajvi": "/pls/topic/lookup?ctx=fa-latest&id=FAJVI",
+				"fajvu": "/pls/topic/lookup?ctx=fa-latest&id=FAJVU",
+				"faila": "/pls/topic/lookup?ctx=fa-latest&id=FAILA",
+				"faula": "/pls/topic/lookup?ctx=fa-latest&id=FAULA"
+			}
+		},
+		{
+			"name": "fa-24b-24c-24d-25a-human-resources",
+			"search-enabled": true,
+			"button-text": "Go to latest release",
+			"banner-text": "You're viewing an older release.",
+			"previous-releases": [
+				"/en/cloud/saas/human-resources/25a/",
+				"/en/cloud/saas/human-resources/24d/",
+				"/en/cloud/saas/human-resources/24c/",
+				"/en/cloud/saas/human-resources/24b/"
+			],
+			"latest-docs": {
+				"*": "/pls/topic/lookup?ctx=en/cloud/saas/global-human-resources&id=global-human-resources",
+				"fahca": "/pls/topic/lookup?ctx=fa-latest&id=FAHCA",
+				"faagp": "/pls/topic/lookup?ctx=fa-latest&id=FAAGP",
+				"oapff": "/pls/topic/lookup?ctx=fa-latest&id=OAPFF",
+				"faich": "/pls/topic/lookup?ctx=fa-latest&id=FAICH",
+				"faiam": "/pls/topic/lookup?ctx=fa-latest&id=FAIAM",
+				"faibf": "/pls/topic/lookup?ctx=fa-latest&id=FAIBF",
+				"faipk": "/pls/topic/lookup?ctx=fa-latest&id=FAIPK",
+				"faupf": "/pls/topic/lookup?ctx=fa-latest&id=FAUPF",
+				"faigh": "/pls/topic/lookup?ctx=fa-latest&id=FAIGH",
+				"faigp": "/pls/topic/lookup?ctx=fa-latest&id=FAIGP",
+				"fagpi": "/pls/topic/lookup?ctx=fa-latest&id=FAGPI",
+				"faitl": "/pls/topic/lookup?ctx=fa-latest&id=FAITL",
+				"fauam": "/pls/topic/lookup?ctx=fa-latest&id=FAUAM",
+				"facmb": "/pls/topic/lookup?ctx=fa-latest&id=FACMB",
+				"fawhr": "/pls/topic/lookup?ctx=fa-latest&id=FAWHR",
+				"oapay": "/pls/topic/lookup?ctx=fa-latest&id=OAPAY",
+				"oapnt": "/pls/topic/lookup?ctx=fa-latest&id=OAPNT",
+				"fautl": "/pls/topic/lookup?ctx=fa-latest&id=FAUTL",
+				"fauwe": "/pls/topic/lookup?ctx=fa-latest&id=FAUWE",
+				"fawhs": "/pls/topic/lookup?ctx=fa-latest&id=FAWHS",
+				"faipc": "/pls/topic/lookup?ctx=fa-latest&id=FAIPC",
+				"faurm": "/pls/topic/lookup?ctx=fa-latest&id=FAURM",
+				"faiwc": "/pls/topic/lookup?ctx=fa-latest&id=FAIWC",
+				"faihm": "/pls/topic/lookup?ctx=fa-latest&id=FAIHM",
+				"ochus": "/pls/topic/lookup?ctx=fa-latest&id=OCHUS",
+				"oawpm": "/pls/topic/lookup?ctx=fa-latest&id=OAWPM",
+				"faohb": "/pls/topic/lookup?ctx=fa-latest&id=FAOHB",
+				"falzi": "/pls/topic/lookup?ctx=fa-latest&id=FALZI",
+				"fauuv": "/pls/topic/lookup?ctx=fa-latest&id=FAUUV",
+				"facmc": "/pls/topic/lookup?ctx=fa-latest&id=FACMC",
+				"fapus": "/pls/topic/lookup?ctx=fa-latest&id=FAPUS",
+				"fapcd": "/pls/topic/lookup?ctx=fa-latest&id=FAPCD",
+				"fapuk": "/pls/topic/lookup?ctx=fa-latest&id=FAPUK",
+				"oeswh": "/pls/topic/lookup?ctx=fa-latest&id=OESWH",
+				"oedmh": "/pls/topic/lookup?ctx=fa-latest&id=OEDMH",
+				"fafgn": "/pls/topic/lookup?ctx=fa-latest&id=FAFGN",
+				"farws": "/pls/topic/lookup?ctx=fa-latest&id=FARWS",
+				"faapc": "/pls/topic/lookup?ctx=fa-latest&id=FAAPC",
+				"faach": "/pls/topic/lookup?ctx=fa-latest&id=FAACH",
+				"faauk": "/pls/topic/lookup?ctx=fa-latest&id=FAAUK",
+				"faaus": "/pls/topic/lookup?ctx=fa-latest&id=FAAUS",
+				"fahex": "/pls/topic/lookup?ctx=fa-latest&id=FAHEX",
+				"faiau": "/pls/topic/lookup?ctx=fa-latest&id=FAIAU",
+				"faimx": "/pls/topic/lookup?ctx=fa-latest&id=FAIMX",
+				"faeyc": "/pls/topic/lookup?ctx=fa-latest&id=FAEYC",
+				"faakw": "/pls/topic/lookup?ctx=fa-latest&id=FAAKW",
+				"faamx": "/pls/topic/lookup?ctx=fa-latest&id=FAAMX",
+				"faaua": "/pls/topic/lookup?ctx=fa-latest&id=FAAUA",
+				"faaei": "/pls/topic/lookup?ctx=fa-latest&id=FAAEI",
+				"faeyu": "/pls/topic/lookup?ctx=fa-latest&id=FAEYU",
+				"faaid": "/pls/topic/lookup?ctx=fa-latest&id=FAAID",
+				"fahdl": "/pls/topic/lookup?ctx=fa-latest&id=FAHDL",
+				"faiot": "/pls/topic/lookup?ctx=fa-latest&id=FAIOT",
+				"faceb": "/pls/topic/lookup?ctx=fa-latest&id=FACEB",
+				"faisa": "/pls/topic/lookup?ctx=fa-latest&id=FAISA",
+				"fauda": "/pls/topic/lookup?ctx=fa-latest&id=FAUDA",
+				"faadc": "/pls/topic/lookup?ctx=fa-latest&id=FAADC",
+				"faucf": "/pls/topic/lookup?ctx=fa-latest&id=FAUCF",
+				"faaac": "/pls/topic/lookup?ctx=fa-latest&id=FAAAC",
+				"fabca": "/pls/topic/lookup?ctx=fa-latest&id=FABCA",
+				"facid": "/pls/topic/lookup?ctx=fa-latest&id=FACID",
+				"faaas": "/pls/topic/lookup?ctx=fa-latest&id=FAAAS",
+				"faapu": "/pls/topic/lookup?ctx=fa-latest&id=FAAPU",
+				"faufm": "/pls/topic/lookup?ctx=fa-latest&id=FAUFM",
+				"fauct": "/pls/topic/lookup?ctx=fa-latest&id=FAUCT",
+				"faipe": "/pls/topic/lookup?ctx=fa-latest&id=FAIPE",
+				"fapua": "/pls/topic/lookup?ctx=fa-latest&id=FAPUA",
+				"fapid": "/pls/topic/lookup?ctx=fa-latest&id=FAPID",
+				"faapq": "/pls/topic/lookup?ctx=fa-latest&id=FAAPQ",
+				"faijh": "/pls/topic/lookup?ctx=fa-latest&id=FAIJH",
+				"faipq": "/pls/topic/lookup?ctx=fa-latest&id=FAIPQ",
+				"fapsk": "/pls/topic/lookup?ctx=fa-latest&id=FAPSK",
+				"fauvb": "/pls/topic/lookup?ctx=fa-latest&id=FAUVB",
+				"faatp": "/pls/topic/lookup?ctx=fa-latest&id=FAATP",
+				"faipb": "/pls/topic/lookup?ctx=fa-latest&id=FAIPB",
+				"faiws": "/pls/topic/lookup?ctx=fa-latest&id=FAIWS",
+				"faapb": "/pls/topic/lookup?ctx=fa-latest&id=FAAPB",
+				"fapai": "/pls/topic/lookup?ctx=fa-latest&id=FAPAI",
+				"faadm": "/pls/topic/lookup?ctx=fa-latest&id=FAADM",
+				"facuk": "/pls/topic/lookup?ctx=fa-latest&id=FACUK",
+				"fahbo": "/pls/topic/lookup?ctx=fa-latest&id=FAHBO"	
+			}	
+		},
+		{
+			"name": "fa-24b-24c-24d-25a-procurement",
+			"search-enabled": true,
+			"button-text": "Go to latest release",
+			"banner-text": "You're viewing an older release.",
+			"previous-releases": [
+				"/en/cloud/saas/procurement/25a/",
+				"/en/cloud/saas/procurement/24d/",
+				"/en/cloud/saas/procurement/24c/",
+				"/en/cloud/saas/procurement/24b/"
+			],
+			"latest-docs": {
+				"*": "/pls/topic/lookup?ctx=en/cloud/saas/procurement&id=procurement",
+				"oapro": "/pls/topic/lookup?ctx=fa-latest&id=OAPRO",
+				"oapcm": "/pls/topic/lookup?ctx=fa-latest&id=OAPCM",
+				"faopb": "/pls/topic/lookup?ctx=fa-latest&id=FAOPB",
+				"oaprc": "/pls/topic/lookup?ctx=fa-latest&id=OAPRC",
+				"fapaa": "/pls/topic/lookup?ctx=fa-latest&id=FAPAA",
+				"fapra": "/pls/topic/lookup?ctx=fa-latest&id=FAPRA",
+				"oefbp": "/pls/topic/lookup?ctx=fa-latest&id=OEFBP",
+				"oeswp": "/pls/topic/lookup?ctx=fa-latest&id=OESWP",
+				"oedmp": "/pls/topic/lookup?ctx=fa-latest&id=OEDMP",
+				"oadpr": "/pls/topic/lookup?ctx=fa-latest&id=OADPR",
+				"faspp": "/pls/topic/lookup?ctx=fa-latest&id=FASPP",
+				"fainp": "/pls/topic/lookup?ctx=fa-latest&id=FAINP"
+			}	
+		},
+		{
+			"name": "fa-24b-24c-24d-25a-project-management",
+			"search-enabled": true,
+			"button-text": "Go to latest release",
+			"banner-text": "You're viewing an older release.",
+			"previous-releases": [
+				"/en/cloud/saas/project-management/25a/",
+				"/en/cloud/saas/project-management/24d/",
+				"/en/cloud/saas/project-management/24c/",
+				"/en/cloud/saas/project-management/24b/"
+			],
+			"latest-docs": {
+				"*": "/pls/topic/lookup?ctx=en/cloud/saas/project-portfolio-management&id=project-portfolio-management",
+				"oapjf": "/pls/topic/lookup?ctx=fa-latest&id=OAPJF",
+				"fapca": "/pls/topic/lookup?ctx=fa-latest&id=FAPCA",
+				"fapfm": "/pls/topic/lookup?ctx=fa-latest&id=FAPFM",
+				"oapex": "/pls/topic/lookup?ctx=fa-latest&id=OAPEX",
+				"oapfm": "/pls/topic/lookup?ctx=fa-latest&id=OAPFM",
+				"oapjm": "/pls/topic/lookup?ctx=fa-latest&id=OAPJM",
+				"faopm": "/pls/topic/lookup?ctx=fa-latest&id=FAOPM",
+				"oapjc": "/pls/topic/lookup?ctx=fa-latest&id=OAPJC",
+				"oapem": "/pls/topic/lookup?ctx=fa-latest&id=OAPEM",
+				"oapjb": "/pls/topic/lookup?ctx=fa-latest&id=OAPJB",
+				"faugr": "/pls/topic/lookup?ctx=fa-latest&id=FAUGR",
+				"oapjs": "/pls/topic/lookup?ctx=fa-latest&id=OAPJS",
+				"fapap": "/pls/topic/lookup?ctx=fa-latest&id=FAPAP",
+				"oefpp": "/pls/topic/lookup?ctx=fa-latest&id=OEFPP",
+				"oespp": "/pls/topic/lookup?ctx=fa-latest&id=OESPP",
+				"oedpp": "/pls/topic/lookup?ctx=fa-latest&id=OEDPP"	,
+				"fawpm": "/pls/topic/lookup?ctx=fa-latest&id=FAWPM",
+				"fapld": "/pls/topic/lookup?ctx=fa-latest&id=FAPLD"						
+			}	
+		},
+		{
+			"name": "fa-24b-24c-24d-25a-risk-management",
+			"search-enabled": true,
+			"button-text": "Go to latest release",
+			"banner-text": "You're viewing an older release.",
+			"previous-releases": [
+				"/en/cloud/saas/risk-management-and-compliance/25a/",
+				"/en/cloud/saas/risk-management-and-compliance/24d/",
+				"/en/cloud/saas/risk-management-and-compliance/24c/",
+				"/en/cloud/saas/risk-management-and-compliance/24b/"
+
+			],
+			"latest-docs": {
+				"*": "/pls/topic/lookup?ctx=en/cloud/saas/risk-management-and-compliance&id=risk-management",
+				"faaar": "/pls/topic/lookup?ctx=fa-latest&id=FAAAR",
+				"farrm": "/pls/topic/lookup?ctx=fa-latest&id=FARRM",
+				"fasor": "/pls/topic/lookup?ctx=fa-latest&id=FASOR",
+				"farsr": "/pls/topic/lookup?ctx=fa-latest&id=FARSR",
+				"faorm": "/pls/topic/lookup?ctx=fa-latest&id=FAORM",
+				"fauac": "/pls/topic/lookup?ctx=fa-latest&id=FAUAC",
+				"farkm": "/pls/topic/lookup?ctx=fa-latest&id=FARKM",
+				"faacm": "/pls/topic/lookup?ctx=fa-latest&id=FAACM",
+				"fafrc": "/pls/topic/lookup?ctx=fa-latest&id=FAFRC"
+			}	
+		},
+		{
+			"name": "fa-24b-24c-24d-25a-supply-chain",
+			"search-enabled": true,
+			"button-text": "Go to latest release",
+			"banner-text": "You're viewing an older release.",
+			"previous-releases": [
+				"/en/cloud/saas/supply-chain-and-manufacturing/25a/",
+				"/en/cloud/saas/supply-chain-and-manufacturing/24d/",
+				"/en/cloud/saas/supply-chain-and-manufacturing/24c/",
+				"/en/cloud/saas/supply-chain-and-manufacturing/24b/"
+			],
+			"latest-docs": {
+				"*": "/pls/topic/lookup?ctx=en/cloud/saas/supply-chain-and-manufacturing&id=supply-chain-and-manufacturing",
+				"faupr": "/pls/topic/lookup?ctx=fa-latest&id=FAUPR",
+				"facmm": "/pls/topic/lookup?ctx=fa-latest&id=FACMM",
+				"faiom": "/pls/topic/lookup?ctx=fa-latest&id=FAIOM",
+				"faipr": "/pls/topic/lookup?ctx=fa-latest&id=FAIPR",
+				"facjr": "/pls/topic/lookup?ctx=fa-latest&id=FACJR",
+				"fauca": "/pls/topic/lookup?ctx=fa-latest&id=FAUCA",
+				"fagmi": "/pls/topic/lookup?ctx=fa-latest&id=FAGMI",
+				"fammi": "/pls/topic/lookup?ctx=fa-latest&id=FAMMI",
+				"faicf": "/pls/topic/lookup?ctx=fa-latest&id=FAICF",
+				"oaimi": "/pls/topic/lookup?ctx=fa-latest&id=OAIMI",
+				"faims": "/pls/topic/lookup?ctx=fa-latest&id=FAIMS",
+				"faivc": "/pls/topic/lookup?ctx=fa-latest&id=FAIVC",
+				"facmg": "/pls/topic/lookup?ctx=fa-latest&id=FACMG",
+				"fassc": "/pls/topic/lookup?ctx=fa-latest&id=FASSC",
+				"fammm": "/pls/topic/lookup?ctx=fa-latest&id=FAMMM",
+				"farom": "/pls/topic/lookup?ctx=fa-latest&id=FAROM",
+				"faspm": "/pls/topic/lookup?ctx=fa-latest&id=FASPM",
+				"fasvc": "/pls/topic/lookup?ctx=fa-latest&id=FASVC",
+				"fauds": "/pls/topic/lookup?ctx=fa-latest&id=FAUDS",
+				"fasdm": "/pls/topic/lookup?ctx=fa-latest&id=FASDM",
+				"fauee": "/pls/topic/lookup?ctx=fa-latest&id=FAUEE",
+				"fafdc": "/pls/topic/lookup?ctx=fa-latest&id=FAFDC",
+				"fauim": "/pls/topic/lookup?ctx=fa-latest&id=FAUIM",
+				"famml": "/pls/topic/lookup?ctx=fa-latest&id=FAMML",
+				"faumm": "/pls/topic/lookup?ctx=fa-latest&id=FAUMM",
+				"faumf": "/pls/topic/lookup?ctx=fa-latest&id=FAUMF",
+				"fascp": "/pls/topic/lookup?ctx=fa-latest&id=FASCP",
+				"faupc": "/pls/topic/lookup?ctx=fa-latest&id=FAUPC",
+				"faupd": "/pls/topic/lookup?ctx=fa-latest&id=FAUPD",
+				"fapsu": "/pls/topic/lookup?ctx=fa-latest&id=FAPSU",
+				"fauqm": "/pls/topic/lookup?ctx=fa-latest&id=FAUQM",
+				"facep": "/pls/topic/lookup?ctx=fa-latest&id=FACEP",
+				"faurp": "/pls/topic/lookup?ctx=fa-latest&id=FAURP",
+				"faubm": "/pls/topic/lookup?ctx=fa-latest&id=FAUBM",
+				"famli": "/pls/topic/lookup?ctx=fa-latest&id=FAMLI",
+				"fasop": "/pls/topic/lookup?ctx=fa-latest&id=FASOP",
+				"famlo": "/pls/topic/lookup?ctx=fa-latest&id=FAMLO",
+				"faucc": "/pls/topic/lookup?ctx=fa-latest&id=FAUCC",
+				"fapma": "/pls/topic/lookup?ctx=fa-latest&id=FAPMA",
+				"fauso": "/pls/topic/lookup?ctx=fa-latest&id=FAUSO",
+				"faspf": "/pls/topic/lookup?ctx=fa-latest&id=FASPF",
+				"fauco": "/pls/topic/lookup?ctx=fa-latest&id=FAUCO",
+				"fausp": "/pls/topic/lookup?ctx=fa-latest&id=FAUSP",
+				"faosm": "/pls/topic/lookup?ctx=fa-latest&id=FAOSM",
+				"fauom": "/pls/topic/lookup?ctx=fa-latest&id=FAUOM",
+				"fapim": "/pls/topic/lookup?ctx=fa-latest&id=FAPIM",
+				"fasrp": "/pls/topic/lookup?ctx=fa-latest&id=FASRP",
+				"oefsc": "/pls/topic/lookup?ctx=fa-latest&id=OEFSC",
+				"oessc": "/pls/topic/lookup?ctx=fa-latest&id=OESSC",
+				"oedsc": "/pls/topic/lookup?ctx=fa-latest&id=OEDSC",
+				"facri": "/pls/topic/lookup?ctx=fa-latest&id=FACRI",
+				"facru": "/pls/topic/lookup?ctx=fa-latest&id=FACRU",
+				"fampr": "/pls/topic/lookup?ctx=fa-latest&id=FAMPR",
+				"oadsc": "/pls/topic/lookup?ctx=fa-latest&id=OADSC",
+				"faudc": "/pls/topic/lookup?ctx=fa-latest&id=FAUDC",
+				"faspc": "/pls/topic/lookup?ctx=fa-latest&id=FASPC",
+				"faccm": "/pls/topic/lookup?ctx=fa-latest&id=FACCM",
+				"faips": "/pls/topic/lookup?ctx=fa-latest&id=FAIPS",
+				"fahos": "/pls/topic/lookup?ctx=fa-latest&id=FAHOS",
+				"fasih": "/pls/topic/lookup?ctx=fa-latest&id=FASIH",
+				"fasye": "/pls/topic/lookup?ctx=fa-latest&id=FASYE",
+				"faugm": "/pls/topic/lookup?ctx=fa-latest&id=FAUGM"
+			}	
+		},
+		{
+			"name": "fa-24b-24c-24d-25a-student-management",
+			"search-enabled": true,
+			"button-text": "Go to latest release",
+			"banner-text": "You're viewing an older release.",
+			"previous-releases": [
+				"/en/cloud/saas/student-management/25a/",
+				"/en/cloud/saas/student-management/24d/",				
+				"/en/cloud/saas/student-management/24c/",
+				"/en/cloud/saas/student-management/24b/"
+			],
+			"latest-docs": {
+				"*": "/pls/topic/lookup?ctx=en/cloud/saas/student-management&id=student-management",
+				"faisr": "/pls/topic/lookup?ctx=fa-latest&id=FAISR",
+				"fausm": "/pls/topic/lookup?ctx=fa-latest&id=FAUSM",
+				"fagsm": "/pls/topic/lookup?ctx=fa-latest&id=FAGSM",
+				"faism": "/pls/topic/lookup?ctx=fa-latest&id=FAISM",
+				"faost": "/pls/topic/lookup?ctx=fa-latest&id=FAOST",
+				"fassm": "/pls/topic/lookup?ctx=fa-latest&id=FASSM",
+				"farsm": "/pls/topic/lookup?ctx=fa-latest&id=FARSM"
+			}	
+		},
+		{
+			"name": "fa-24b-24c-24d-25a-talent-management",
+			"search-enabled": true,
+			"button-text": "Go to latest release",
+			"banner-text": "You're viewing an older release.",
+			"previous-releases": [
+				"/en/cloud/saas/talent-management/25a/",
+				"/en/cloud/saas/talent-management/24d/",				
+				"/en/cloud/saas/talent-management/24c/",
+				"/en/cloud/saas/talent-management/24b/"
+			],
+			"latest-docs": {
+				"*": "/pls/topic/lookup?ctx=en/cloud/saas/talent-management&id=talent-management",
+				"faimh": "/pls/topic/lookup?ctx=fa-latest&id=FAIMH",
+				"faush": "/pls/topic/lookup?ctx=fa-latest&id=FAUSH",
+				"fatcd": "/pls/topic/lookup?ctx=fa-latest&id=FATCD",
+				"faigm": "/pls/topic/lookup?ctx=fa-latest&id=FAIGM",
+				"faipm": "/pls/topic/lookup?ctx=fa-latest&id=FAIPM",
+				"faitm": "/pls/topic/lookup?ctx=fa-latest&id=FAITM",
+				"faiml": "/pls/topic/lookup?ctx=fa-latest&id=FAIML",
+				"fatrs": "/pls/topic/lookup?ctx=fa-latest&id=FATRS",
+				"faucd": "/pls/topic/lookup?ctx=fa-latest&id=FAUCD",
+				"faugm": "/pls/topic/lookup?ctx=fa-latest&id=FAUGM",
+				"fatul": "/pls/topic/lookup?ctx=fa-latest&id=FATUL",
+				"faupm": "/pls/topic/lookup?ctx=fa-latest&id=FAUPM",
+				"fautr": "/pls/topic/lookup?ctx=fa-latest&id=FAUTR",
+				"fauep": "/pls/topic/lookup?ctx=fa-latest&id=FAUEP",
+				"faidy": "/pls/topic/lookup?ctx=fa-latest&id=FAIDY",
+				"faudy": "/pls/topic/lookup?ctx=fa-latest&id=FAUDY",
+				"faarb": "/pls/topic/lookup?ctx=fa-latest&id=FAARB",
+				"fauat": "/pls/topic/lookup?ctx=fa-latest&id=FAUAT"
+			}	
+		},
+		{
+			"name": "fa-24b-24c-24d-25a-service-logistics",
+			"search-enabled": true,
+			"button-text": "Go to latest release",
+			"banner-text": "You're viewing an older release.",
+			"previous-releases": [
+				"/en/cloud/saas/service-logistics/25a/",
+				"/en/cloud/saas/service-logistics/24d/",				
+				"/en/cloud/saas/service-logistics/24c/",
+				"/en/cloud/saas/service-logistics/24b/"
+			],
+			"latest-docs": {
+				"*": "/pls/topic/lookup?ctx=en/cloud/saas/service-logistics&id=service-logistics",
+				"fasgs": "/pls/topic/lookup?ctx=fa-latest&id=FASGS",
+				"faisf": "/pls/topic/lookup?ctx=fa-latest&id=FAISF",
+				"fasul": "/pls/topic/lookup?ctx=fa-latest&id=FASUL"
+			}	
+		},
+		{
+			"name": "fa-24b-24c-24d-25a-student-financial-planning",
+			"search-enabled": true,
+			"button-text": "Go to latest release",
+			"banner-text": "You're viewing an older release.",
+			"previous-releases": [
+				"/en/cloud/saas/student-financial-aid/25a/",
+				"/en/cloud/saas/student-financial-aid/24d/",				
+				"/en/cloud/saas/student-financial-aid/24c/",
+				"/en/cloud/saas/student-financial-aid/24b/"
+
+			],
+			"latest-docs": {
+				"*": "/pls/topic/lookup?ctx=en/cloud/saas/student-financial-aid&id=student-financial-aid",
+				"favrs": "/pls/topic/lookup?ctx=fa-latest&id=FAVRS",
+				"favsf": "/pls/topic/lookup?ctx=fa-latest&id=FAVSF",
+				"faisp": "/pls/topic/lookup?ctx=fa-latest&id=FAISP",
+				"favli": "/pls/topic/lookup?ctx=fa-latest&id=FAVLI",
+				"faacr": "/pls/topic/lookup?ctx=fa-latest&id=FAACR",
+				"faaim": "/pls/topic/lookup?ctx=fa-latest&id=FAAIM",
+				"faaui": "/pls/topic/lookup?ctx=fa-latest&id=FAAUI"
+			}
+		},
+		{
+			"name": "warehouse-management-en",
+			"search-enabled": true,
+			"button-text": "Go to latest release",
+			"banner-text": "You're viewing an older release.",
+			"previous-releases": [
+				"/en/cloud/saas/warehouse-management/24c/",
+				"/en/cloud/saas/warehouse-management/24b/",
+				"/en/cloud/saas/warehouse-management/24a/",
+				"/en/cloud/saas/warehouse-management/23d/"
+				
+			],
+			"latest-docs": {
+				"*": "/pls/topic/lookup?ctx=owm-latest&id=wms-getting-started",
+				"owmcg": "/pls/topic/lookup?ctx=owm-latest&id=OWMCG",
+				"owmli": "/pls/topic/lookup?ctx=owm-latest&id=OWMLI",
+				"owmms": "/pls/topic/lookup?ctx=owm-latest&id=OWMMS",
+				"owmap": "/pls/topic/lookup?ctx=owm-latest&id=OWMAP",
+				"owmre": "/pls/topic/lookup?ctx=owm-latest&id=OWMRE",
+				"owmol": "/pls/topic/lookup?ctx=owm-latest&id=OWMOL",
+				"owmwf": "/pls/topic/lookup?ctx=owm-latest&id=OWMWF",
+				"owmwr": "/pls/topic/lookup?ctx=owm-latest&id=OWMWR",
+				"owmso": "/pls/topic/lookup?ctx=owm-latest&id=OWMSO",
+				"owmsj": "/pls/topic/lookup?ctx=owm-latest&id=OWMSJ",
+				"owmld": "/pls/topic/lookup?ctx=owm-latest&id=OWMLD",
+				"owmma": "/pls/topic/lookup?ctx=owm-latest&id=OWMMA",
+				"owmim": "/pls/topic/lookup?ctx=owm-latest&id=OWMIM",
+				"owsec": "/pls/topic/lookup?ctx=owm-latest&id=OWSEC"
+			}
+		},
+		{
+			"name": "property-graph-en-24.4-24.3-24.2-24.1-23.4-23.3-23.2-23.1-22.4-22.3-22.2-22.1-21.4-21.3-21.2-21.1-20.4",
+			"search-enabled": true,
+			"button-text": "View Latest",
+			"banner-text": "You are viewing an older release.",
+			"previous-releases": [
+				"/en/database/oracle/property-graph/24.4/",
+				"/en/database/oracle/property-graph/24.3/",
+				"/en/database/oracle/property-graph/24.2/",
+				"/en/database/oracle/property-graph/24.1/",
+				"/en/database/oracle/property-graph/23.4/",
+				"/en/database/oracle/property-graph/23.3/",
+				"/en/database/oracle/property-graph/23.2/",
+				"/en/database/oracle/property-graph/23.1/",
+				"/en/database/oracle/property-graph/22.4/",
+				"/en/database/oracle/property-graph/22.3/",
+				"/en/database/oracle/property-graph/22.2/",
+				"/en/database/oracle/property-graph/22.1/",
+				"/en/database/oracle/property-graph/21.4/",
+				"/en/database/oracle/property-graph/21.3/",
+				"/en/database/oracle/property-graph/21.2/",
+				"/en/database/oracle/property-graph/21.1/",
+				"/en/database/oracle/property-graph/20.4/"
+			],
+			"latest-docs": {
+				"*": "/pls/topic/lookup?ctx=property-graph-latest&id=property-graph-get-started",
+				"spgdg": "/pls/topic/lookup?ctx=property-graph-latest&id=SPGDG",
+				"spgjv": "/pls/topic/lookup?ctx=property-graph-latest&id=java_doc",
+				"pgjsd": "/pls/topic/lookup?ctx=property-graph-latest&id=graphviz_js_doc",
+				"pypgx": "/pls/topic/lookup?ctx=property-graph-latest&id=python_doc"								
+			}
+		},
+		{
+			"name": "canonical=link-testing",
+			"search-enabled": true,
+			"button-text": "View Latest",
+			"banner-text": "You are viewing an older release.",
+			"previous-releases": [
+				"/en/sptest/test-suite/ulv2/3b/"
+			],
+			"latest-docs": {
+				"pnwgd": "/pls/topic/lookup?ctx=ulv2-latest&id=PNWGD"							
+			}
+		}
+	]
+}

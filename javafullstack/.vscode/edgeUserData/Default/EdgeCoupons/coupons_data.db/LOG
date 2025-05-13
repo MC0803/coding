@@ -1,0 +1,6 @@
+2025/04/20-22:19:53.161 c20 Reusing MANIFEST C:\coding\javafullstack\.vscode\edgeUserData\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2025/04/20-22:19:53.163 c20 Recovering log #4
+2025/04/20-22:19:53.164 c20 Reusing old log C:\coding\javafullstack\.vscode\edgeUserData\Default\EdgeCoupons/coupons_data.db/000004.log 
+2025/04/20-22:19:53.230 3c28 Level-0 table #8: started
+2025/04/20-22:19:53.235 3c28 Level-0 table #8: 670943 bytes OK
+2025/04/20-22:19:53.238 3c28 Delete type=0 #4
