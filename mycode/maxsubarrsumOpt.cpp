@@ -4,12 +4,10 @@ using namespace std;
 int maxsubarr(int arr[],int n){
     int maxSum=INT16_MIN; // Initialize to the smallest possible integer
     for(int start=0;start<n;start++){
+        int currsum=0;
         for(int end=start;end<n;end++){
-           int currsum=0;
-           for(int i=start;i<=end;i++){
-            currsum+=arr[i];
-           }
-           cout<<currsum<<" ";
+            currsum+=arr[end]; //instead of adding same values repeatedly.We add another element to already
+           cout<<currsum<<" "; // calculated value of elements till that point.
            maxSum=max( maxSum,currsum );
         }
         cout<<endl;
