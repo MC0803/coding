@@ -16,17 +16,22 @@
 //     console.log(a + b);
 // };
 
+
+// console.log(Sum1(3, 4));
+// This will print the function defined under Sum1
+
+
+// this when called in console like -- Sum1(3,4) will give 7
+
 // const arrowMul = (a, b) => {
 //     return a * b;
 // };
 
 //console.log(arrowMul(3, 4));
-// This will print the function defined under Sum1
-// console.log(Sum1(3, 4));
+
 
 // const printHello = () => console.log("Hello Woeld");
 
-// this when called in console like -- Sum1(3,4) will give 7
 
 // 
 

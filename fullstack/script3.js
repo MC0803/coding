@@ -7,15 +7,15 @@ console.log(newarr);
 
 let n = prompt("Enter a number n");
 let arr1 = [];
-for(var i=0;i<n;i++){
+for(var i=1;i<n;i++){
     arr1[i-1] = i;
 };
 
-let newarr1 =arr1.reduce((prev,curr)=>{
+let sumarr1 =arr1.reduce((prev,curr)=>{
     return prev+curr;
 });
 
-console.log(newarr1);
+console.log(sumarr1);
 
 let newarr2 = arr1.map((val)=>{
     return val*val;
@@ -23,7 +23,7 @@ let newarr2 = arr1.map((val)=>{
 console.log(newarr2);
 
 console.log("Product of allnumber in array");
-let pro = arr1.reduce((prev,curr)=>{
+let productarr1 = arr1.reduce((prev,curr)=>{
     return prev*curr;
 });
-console.log(pro);
+console.log(productarr1);
