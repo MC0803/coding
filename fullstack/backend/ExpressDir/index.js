@@ -18,10 +18,10 @@ app.get('/',(req,res)=>{
 });
 
 
-// app.get('/:username/:id',(req,res)=>{
-//     let {username,id} = req.params;
-//     res.send(`Username is ${username} and ID is ${id}`);
-// });
+app.get('/:username/:id',(req,res)=>{
+    let {username,id} = req.params;
+    res.send(`Username is ${username} and ID is ${id}`);
+});
 
 //search for eg   /search?q=apple
 app.get('/search',(req, res)=>{
