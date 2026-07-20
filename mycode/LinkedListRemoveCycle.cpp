@@ -88,6 +88,19 @@ public:
         cout << endl;
     }
 };
+
+void mergeSort(Node *head)
+{
+    if (head == NULL || head->next == NULL)
+        return;
+
+    Node *rightHead = splitAtMid(head);
+    mergeSort(head);      // left half
+    mergeSort(rightHead); // right half
+
+    merge(head, rightHead);
+};
+
 int main()
 {
     List ll;

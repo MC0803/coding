@@ -32,7 +32,7 @@ modebtn.addEventListener('click',() =>{
         document.body.style.color = 'white';
         //can also use ClassList.add('dark-mode');
         //and ClassList.remove('light-mode');
-        //define a dark -mode inside css file
+        //define a dark-mode inside css file
         //and add it to body,same for light mode
 
     }

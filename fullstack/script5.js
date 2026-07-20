@@ -4,7 +4,7 @@ class user{
         this.email =email;
     }
     viewdata(){
-        console.log(`Name ${this.name} and en=mail is ${this.email}`);
+        console.log(`Name ${this.name} and email is ${this.email}`);
     } 
 }  
 
